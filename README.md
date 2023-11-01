@@ -100,6 +100,9 @@ python sample.py --image-size 512 --seed 1
 ## Parameters
 
 - Beta: If your step is set to 100, then setting beta to around 25-30 is more appropriate.
+- 
+# Acknowledgments
+Thanks for the <a href="https://github.com/facebookresearch/DiT" target="_blank">DiT code</a> provided by <a href="https://arxiv.org/pdf/2212.09748.pdf" target="_blank">Scalable Diffusion Models with Transformers</a>.
 
 
 # BibTeX
