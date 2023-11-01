@@ -101,8 +101,6 @@ python sample.py --image-size 512 --seed 1
 
 - Beta: If your step is set to 100, then setting beta to around 25-30 is more appropriate.
 
-# Acknowledgments
-
 
 # BibTeX
 ```
